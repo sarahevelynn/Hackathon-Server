@@ -398,7 +398,7 @@ var clothes = [
     itemType: "Jeans",
     itemName: "Stetson Rock Fit X Stitched Jeans",
     description: [
-      "Stetson makes quality hats and boots -- but don't forget the jeans! These jeans have a stylish  X  stitching design on the back pockets. Stetson \"Rock Fit\" features a low rise. Traditional five-pocket styling with Stetson logo buttons",
+      'Stetson makes quality hats and boots -- but don\'t forget the jeans! These jeans have a stylish  X  stitching design on the back pockets. Stetson "Rock Fit" features a low rise. Traditional five-pocket styling with Stetson logo buttons',
       "zipper and rivets."
     ],
     price: 78.39,
